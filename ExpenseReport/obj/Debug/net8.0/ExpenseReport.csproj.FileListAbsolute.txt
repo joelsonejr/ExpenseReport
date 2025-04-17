@@ -1,0 +1,14 @@
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/bin/Debug/net8.0/ExpenseReport
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/bin/Debug/net8.0/ExpenseReport.deps.json
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/bin/Debug/net8.0/ExpenseReport.runtimeconfig.json
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/bin/Debug/net8.0/ExpenseReport.dll
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/bin/Debug/net8.0/ExpenseReport.pdb
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ExpenseReport.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ExpenseReport.AssemblyInfoInputs.cache
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ExpenseReport.AssemblyInfo.cs
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ExpenseReport.csproj.CoreCompileInputs.cache
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ExpenseReport.dll
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/refint/ExpenseReport.dll
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ExpenseReport.pdb
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ExpenseReport.genruntimeconfig.cache
+/mnt/lab/dev/github/ExpenseReport/ExpenseReport/obj/Debug/net8.0/ref/ExpenseReport.dll
