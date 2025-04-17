@@ -1,2 +1,2 @@
-ExpenseReport/bin/Debug/*
-ExpenseReport/obj/Debug/*
+**/bin/Debug/*
+**/obj/Debug/*
