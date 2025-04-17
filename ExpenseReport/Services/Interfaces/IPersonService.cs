@@ -6,7 +6,7 @@ namespace ExpenseReport.Services.Interfaces
 {
     public interface IPersonService
     {
-        public PersonDto CreatePerson(ValidationService validation);
+        public List<PersonDto> CreatePerson(ValidationService validation);
 
     }
 }

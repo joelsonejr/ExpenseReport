@@ -13,7 +13,7 @@ namespace ExpenseReport
             ExpenseService _expense = new ExpenseService();
             PersonService _person = new PersonService();
 
-            PersonDto? newPerson = null;
+            List<PersonDto> newPersons = new List<PersonDto>();
 
             Console.Write("Digite 1 para cadastrar uma pessoa, 2 para cadastrar um novo gasto: ");
             string inputOption = _validation.ValidateInput(Console.ReadLine());
@@ -27,7 +27,7 @@ namespace ExpenseReport
 
             if (option == 1)
             {
-                newPerson = _person.CreatePerson(_validation);
+                newPersons = _person.CreatePerson(_validation);
             }
 
 
@@ -44,15 +44,15 @@ namespace ExpenseReport
             List<ExpenseDto> expenseP1 = _expense.PopulateExpenseList(amount, _validation);
 
 
-            if (expenseP1.Count() < 0)
+            if (expenseP1.Count() > 0)
             {
                 _expense.ListExpense(expenseP1);
             }
 
 
-            if (newPerson != null)
+            if (newPersons.Count() > 0)
             {
-                Console.WriteLine($"Novo usuário: {newPerson}");
+                _person.ListPerson(newPersons);
             }
 
         }
